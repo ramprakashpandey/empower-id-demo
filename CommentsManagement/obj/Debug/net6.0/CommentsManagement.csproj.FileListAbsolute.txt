@@ -68,3 +68,4 @@ D:\EmpowerID\CommentsManagement\obj\Debug\net6.0\refint\CommentsManagement.dll
 D:\EmpowerID\CommentsManagement\obj\Debug\net6.0\CommentsManagement.pdb
 D:\EmpowerID\CommentsManagement\obj\Debug\net6.0\CommentsManagement.genruntimeconfig.cache
 D:\EmpowerID\CommentsManagement\obj\Debug\net6.0\ref\CommentsManagement.dll
+D:\EmpowerID\CommentsManagement\obj\Debug\net6.0\CommentsManagement.sourcelink.json

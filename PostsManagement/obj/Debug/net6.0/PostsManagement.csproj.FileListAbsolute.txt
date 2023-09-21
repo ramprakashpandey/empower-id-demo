@@ -68,3 +68,4 @@ D:\EmpowerID\PostsManagement\obj\Debug\net6.0\refint\PostsManagement.dll
 D:\EmpowerID\PostsManagement\obj\Debug\net6.0\PostsManagement.pdb
 D:\EmpowerID\PostsManagement\obj\Debug\net6.0\PostsManagement.genruntimeconfig.cache
 D:\EmpowerID\PostsManagement\obj\Debug\net6.0\ref\PostsManagement.dll
+D:\EmpowerID\PostsManagement\obj\Debug\net6.0\PostsManagement.sourcelink.json

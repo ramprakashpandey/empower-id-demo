@@ -35,3 +35,4 @@ D:\EmpowerID\SearchManagement\obj\Release\net6.0\refint\SearchManagement.dll
 D:\EmpowerID\SearchManagement\obj\Release\net6.0\SearchManagement.pdb
 D:\EmpowerID\SearchManagement\obj\Release\net6.0\SearchManagement.genruntimeconfig.cache
 D:\EmpowerID\SearchManagement\obj\Release\net6.0\ref\SearchManagement.dll
+D:\EmpowerID\SearchManagement\obj\Release\net6.0\SearchManagement.sourcelink.json

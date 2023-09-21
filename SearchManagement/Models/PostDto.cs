@@ -7,6 +7,7 @@ namespace SearchManagement.Models
     /// </summary>
     public class PostDto
     {
+        public string Id { get; set; }  
         public string Title { get; set; }
         public string? Content { get; set; }
         public DateTime PostCreated { get; set; }
